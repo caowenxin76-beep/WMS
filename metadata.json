@@ -1,0 +1,5 @@
+{
+  "name": "WMS System",
+  "description": "A modern Warehouse Management System (WMS) with dashboard, inventory tracking, inbound, and outbound management.",
+  "requestFramePermissions": []
+}
